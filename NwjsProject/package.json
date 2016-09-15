@@ -1,0 +1,13 @@
+{
+  "name": "WebLive",
+  "version": "0.0.1",
+  "main":"login.html",
+  "window":{
+    "title":"WebLive",
+    "toolbar":false,
+    "width":1440,
+    "height":600,
+    "min_width":1440,
+    "min_height":600
+  }
+}
